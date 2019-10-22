@@ -1,2 +1,0 @@
-# alarmknappen
-Alarmknappen landing page
